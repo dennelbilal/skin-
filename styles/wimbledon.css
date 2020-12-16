@@ -98,7 +98,6 @@ body{
 .logo{
     width: 10vmin;
     height: 10vmin;
-   
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -107,7 +106,7 @@ body{
     mix-blend-mode: hard-light;
     font-size: 5vmin;
     font-weight: 700;
-    color: #fb8d39;
+    color: #ffffff;
     line-height: 1.1;
     
 }
