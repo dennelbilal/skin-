@@ -66,7 +66,7 @@ body{
     top: 0;
     width: 50%;
     height: 25vmin;
-    background-image: url();
+    background-image: url('./skins/wimbledon/carlage\ mur\ copie.png');
     background-position: center;
 }
 .haut > *{
