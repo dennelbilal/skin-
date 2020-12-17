@@ -17,7 +17,7 @@
     text-align: center;
     width: 100px;
     min-height: 50px;
-    opacity: 1;
+    opacity: 0;
     filter: blur(0px);
     animation-name: bulle;
     animation-duration: 2s;
